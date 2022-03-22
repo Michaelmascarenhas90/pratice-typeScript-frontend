@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O projeto foi criado usando REACT com typeScript, e funcionara integrando  API que também foi desenvolvida usando typeScript que pode ser encontrada no link abaixo:
+https://github.com/Michaelmascarenhas90/pratice-TypeScript
+
+inicialmente deve se rodar o yarn start na API e então rodar o yarn start no projeto front end, assim que carregar a página será possível visualizar a informação que tem mocada na API. 
 
 ## Available Scripts
 
